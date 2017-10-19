@@ -1,4 +1,4 @@
-package com.project.hzwlcd.englishsolitaire;
+package com.project.hzwlcd.english_solitaire;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

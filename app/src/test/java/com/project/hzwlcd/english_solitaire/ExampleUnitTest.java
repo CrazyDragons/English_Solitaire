@@ -1,4 +1,4 @@
-package com.project.hzwlcd.englishsolitaire;
+package com.project.hzwlcd.english_solitaire;
 
 import org.junit.Test;
 
