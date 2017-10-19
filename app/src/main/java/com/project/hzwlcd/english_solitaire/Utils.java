@@ -44,7 +44,7 @@ public class Utils {
                     int code = connection.getResponseCode();
 
                     if (code == 200){
-                        // TODO: 2017/10/19 你在这里写成功访问服务器时的操作
+                        // TODO: 2017/10/19 你在这里写成功访问服务器时的操作，这里的方法可能只需要返回响应码就行，操作在activity里写
                     }
                 }catch (Exception e){
                     e.printStackTrace();
